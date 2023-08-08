@@ -45,7 +45,6 @@
 }
 
 .image-container {
-    /* background-image: url("/pattern-bg-mobile.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     height: 40dvh;
@@ -132,10 +131,6 @@
 
 /*For laptops*/
 @media (width >= 75em) {
-
-    .image-container {
-        /* background-image: url("/pattern-bg-desktop.png"); */
-    }
 
     .data {
         margin-top: 3%;
